@@ -30,37 +30,12 @@
 ## 📈 GitHub Stats (2026)
 **Total Commits (all time)**: 90
 **Total PRs (all time)**: 5+
-**Total Commits (this year)**: 5
+**Total Commits (this year)**: 90
 **Total PRs (this year)**: 5
 **Total Issues**: 0
 **Total Contributions**: 95+ (Commits + PRs)
 **Profile Grade**: ⭐ Active Open Source Contributor
 
-## 🛠️ Professional Tech Stack
-**Languages**: Java • Python • Go • SQL • DSA • Bash • JavaScript • C++
-
-**DevOps & Orchestration**:
-- Container: Docker, Kubernetes, OpenLens
-- CI/CD: Jenkins, Argo CD, Airflow
-- Infrastructure as Code: Terraform, Ansible, Helm
-- Monitoring: Prometheus, Grafana, ELK Stack, Elasticsearch
-
-**Cloud Platforms**: AWS (EC2, S3, RDS) • Microsoft Azure (VMs, PaaS Services) • Google Cloud Platform (GCP)
-- Multi-cloud expertise: Cross-cloud data replication, cloud-agnostic Kubernetes upgrades
-
-**Databases**: PostgreSQL • MongoDB • MySQL • Redis • Elasticsearch
-
-**Developer Tools**: Git • GitHub • Docker • VS Code • IntelliJ IDEA • Postman • AWS CLI • Cloud Shells
-
-**AI/ML**: LLM • RAG (Retrieval Augmented Generation) • GenAI Services • Prompt Engineering • LangChain • LongGraph
-
-**Expertise Areas**:
-- Multi-cloud infrastructure management
-- Kubernetes architecture & cluster upgrades
-- Infrastructure automation & cost optimization
-- Enterprise security compliance (Qualys, Sophos)
-- End-to-end observability & monitoring
-- Python automation frameworks
 
 ## 💼 Professional Experience
 
@@ -94,7 +69,7 @@
 ```
 Total Commits (all-time):        90
 Total PRs (all-time):            5+
-Total Commits (2026):            5
+Total Commits (2026):            90
 Total PRs (2026):                5
 Total Issues Created:            0
 Total Contributions:             95+ (Commits + PRs combined)
