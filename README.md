@@ -1,13 +1,26 @@
 # 👋 Hello, I'm Yaswanth Majety!
 
 ## 🚀 About Me
-- 🎓 CS Student at **VIT Vellore** | Cloud & DevOps Engineer | Open Source Contributor
-- 💻 I have done multiple projects ranging from DevOps, Cloud Computing & Java/Go Development
+- 🎓 **VIT Vellore** Graduate | B.Tech (2019-2023) | CGPA: 8.80/10
+- 💼 **DevOps Engineer-1** at O9 Solutions Inc (Aug 2023 - Present)
+- ☁️ Multi-cloud Infrastructure Specialist | Kubernetes Expert | Infrastructure Automation
+- 💻 Expertise in DevOps, Cloud Computing, Java/Go, and Open Source Contribution
 - 🌍 Active Contributor to Kubernetes open source projects
-- 📚 Currently brushing up my skills and plan to learn more technical skills
-- 🏫 **Institute**: Vellore Institute of Technology (VIT), Vellore
+- 🏫 **Institute**: Vellore Institute of Technology (VIT), Vellore, India
+- 📍 **Location**: Bengaluru, India
 
-## 🏆 Achievements
+## 🏆 Professional Achievements & Certifications
+- 🥇 **2024 o9 Annual Excellence Award** - 1 of 180 team members for innovative contributions
+- 🌟 **Performer of 2024 Q1** - Certificate of Appreciation for outstanding performance
+- 📜 **Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
+- 📜 **Oracle, Microsoft & AWS Certified**: AI-900 (866/1000), AZ-900 (833/1000), AWS CLF-C01 (870/1000)
+
+## 💰 Cost Optimization & Impact
+- 💵 **$360K Cloud Cost Savings** - Implemented Ansible automation to optimize idle VM management
+- 💾 **$115K/Month Storage Savings** - Resolved critical Spark log-retention issue across 30+ production environments
+- 🔐 **15+ Cloud Security Issues Resolved** - CSPM compliance improvements
+
+## 🔧 Open Source Contributions
 - ✅ **Kubernetes Contributor** - 1 PR merged (#137818)
 - ✅ **Kubernetes Autoscaler Contributor** - 4 PRs (#9364, #9365, #9366, #9367)
 - 📊 **Total Open Source Contributions (2026)**: 5 PRs to Kubernetes
@@ -23,11 +36,51 @@
 **Total Contributions**: 95+ (Commits + PRs)
 **Profile Grade**: ⭐ Active Open Source Contributor
 
-## 🛠️ Tech Stack
-**Languages**: Java • Go • Python • JavaScript • C++ • Bash
-**Cloud & DevOps**: Docker • Kubernetes • AWS • Terraform • Ansible • Jenkins
-**Tools**: Git • GitHub • Linux • Apache • SQL
-**Expertise**: Kubernetes Architecture • Container Orchestration • Cloud Infrastructure
+## 🛠️ Professional Tech Stack
+**Languages**: Java • Python • Go • SQL • DSA • Bash • JavaScript • C++
+
+**DevOps & Orchestration**:
+- Container: Docker, Kubernetes, OpenLens
+- CI/CD: Jenkins, Argo CD, Airflow
+- Infrastructure as Code: Terraform, Ansible, Helm
+- Monitoring: Prometheus, Grafana, ELK Stack, Elasticsearch
+
+**Cloud Platforms**: AWS (EC2, S3, RDS) • Microsoft Azure (VMs, PaaS Services) • Google Cloud Platform (GCP)
+- Multi-cloud expertise: Cross-cloud data replication, cloud-agnostic Kubernetes upgrades
+
+**Databases**: PostgreSQL • MongoDB • MySQL • Redis • Elasticsearch
+
+**Developer Tools**: Git • GitHub • Docker • VS Code • IntelliJ IDEA • Postman • AWS CLI • Cloud Shells
+
+**AI/ML**: LLM • RAG (Retrieval Augmented Generation) • GenAI Services • Prompt Engineering • LangChain • LongGraph
+
+**Expertise Areas**:
+- Multi-cloud infrastructure management
+- Kubernetes architecture & cluster upgrades
+- Infrastructure automation & cost optimization
+- Enterprise security compliance (Qualys, Sophos)
+- End-to-end observability & monitoring
+- Python automation frameworks
+
+## 💼 Professional Experience
+
+### O9 Solutions Inc. | DevOps Engineer-1 (Aug 2023 - Present)
+**Bengaluru, India**
+
+**Key Responsibilities & Achievements:**
+- 🏗️ **Multi-Cloud Infrastructure Management**: Managed Terraform IaC with reusable modules across AWS, Azure, and GCP
+- 📊 **End-to-End Observability**: Implemented Prometheus, ELK, and Grafana for comprehensive monitoring
+- ⚙️ **Kubernetes Deployment Standardization**: Built Helm charts for GenAI services (LLM, RAG, agents)
+- 🔐 **Security Automation**: Implemented Ansible for enterprise compliance with Qualys, Sophos, and SOC integration
+- 💰 **Cost Optimization**:
+  - $360K savings via VM optimization automation
+  - $115K/month storage savings via Spark log-retention strategy
+- 🚀 **Kubernetes Upgrades**: Cloud-agnostic automation across AWS, Azure, GCP with zero-touch execution
+- 🔄 **Infrastructure Migration**: Migrated 170+ VMs and 35+ Kubernetes clusters from SCUS to other Azure regions
+- 🗄️ **Data Replication**: Built Python-driven cross-cloud replication framework using rclone and Ansible
+- 🛡️ **Cloud Security**: Resolved 15+ CSPM (Cloud Security Posture Management) issues
+
+---
 
 ## 🔥 Featured Projects
 - **DevEx Project** - Flask REST API with Docker & Kubernetes
