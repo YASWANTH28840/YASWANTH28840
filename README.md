@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student | Cloud & DevOps Engineer | Open Source Contributor
-- 💻 Passionate about Kubernetes, Cloud Computing & DevOps Architecture
+- 💻 I have done multiple projects ranging from DevOps, Cloud Computing & Java/Go Development
 - 🌍 Active Contributor to Kubernetes open source projects
-- 📚 Continuously learning Go, Docker, Kubernetes & Cloud Infrastructure
+- 📚 Currently brushing up my skills and plan to learn more technical skills
 
 ## 🏆 Achievements
 - ✅ **Kubernetes Contributor** - 1 PR merged (#137818)
@@ -13,9 +13,10 @@
 - 🎯 **CLA Signed**: Verified contributor
 
 ## 🛠️ Tech Stack
-**Languages**: Python • Go • JavaScript • C++ • Bash
-**Cloud & DevOps**: Docker • Kubernetes • AWS • Terraform • Ansible
-**Tools**: Git • GitHub • Jenkins • Linux
+**Languages**: Java • Go • Python • JavaScript • C++ • Bash
+**Cloud & DevOps**: Docker • Kubernetes • AWS • Terraform • Ansible • Jenkins
+**Tools**: Git • GitHub • Linux • Apache • SQL
+**Expertise**: Kubernetes Architecture • Container Orchestration • Cloud Infrastructure
 
 ## 🔥 Featured Projects
 - **DevEx Project** - Flask REST API with Docker & Kubernetes
