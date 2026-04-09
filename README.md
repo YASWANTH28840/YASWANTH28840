@@ -17,7 +17,7 @@
 
 ## 💰 Cost Optimization & Impact
 - 💵 **$360K Cloud Cost Savings** - Implemented Ansible automation to optimize idle VM management
-- 💾 **$115K/Month Storage Savings** - Resolved critical Spark log-retention issue across 30+ production environments
+- 💾 **$115K/Month Savings** - Resolved critical Spark log-retention issue across 30+ production environments
 - 🔐 **15+ Cloud Security Issues Resolved** - CSPM compliance improvements
 
 ## 🔧 Open Source Contributions
